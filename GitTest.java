@@ -1,10 +1,5 @@
 public class GitTest {
     public static void main(String[] args) {
-
-
-        이건새로운 기능!
-asdasd
-        충돌이 날거야..
-
+        풀리퀘스트 테스트
     }
 }

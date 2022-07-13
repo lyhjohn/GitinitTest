@@ -3,7 +3,7 @@ public class GitTest {
 
 
         이건새로운 기능!
-
+asdasd
         충돌이 날거야..
 
     }

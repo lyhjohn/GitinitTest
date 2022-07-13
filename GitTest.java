@@ -1,6 +1,10 @@
 public class GitTest {
     public static void main(String[] args) {
 
-        System.out.println("Hello");
+
+        이건새로운 기능!
+asdasd
+        충돌이 날거야..
+
     }
 }

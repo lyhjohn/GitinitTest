@@ -1,9 +1,10 @@
 public class GitTest {
     public static void main(String[] args) {
 
-        충돌이 날까?!
 
-        메인 브랜치 입니다.                
+        이건새로운 기능!
+
+        충돌이 날거야..
 
     }
 }
